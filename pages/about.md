@@ -24,9 +24,7 @@ This blog is my space to share research, ideas, and knowledge about cybersecurit
 
 I aim to document my journey in the cybersecurity field, provide insights into malware research, and share my findings with others who are passionate about digital security.
 
-### HTB Team
 
-- [![HackTheBox](img/htblogo.jpeg) **HackTheBoxTeam**
 
 ### Get in Touch
 
