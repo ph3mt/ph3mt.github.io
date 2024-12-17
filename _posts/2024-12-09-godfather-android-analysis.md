@@ -44,7 +44,7 @@ The strings in the application appear to be encrypted, in fact in the following 
 
 The class that deals with decrypt these strings is **effluvias**.
 
-![Figure 5 - Effluvias Class](/assets/images/2024-12-09-godfather-android-analysis/img5.png
+![Figure 5 - Effluvias Class](/assets/images/2024-12-09-godfather-android-analysis/img5.png)
 
 This function decrypts a base64 text using the AES algorithm in CBC mode with PKCS5 padding.
 
