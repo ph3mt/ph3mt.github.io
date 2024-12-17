@@ -64,9 +64,9 @@ author:
       url: "https://app.hackthebox.com/users/17903"
 
 # Custom CSS
-minimal_mistakes_skin: default
-custom_css:
-  - /assets/css/custom-fonts.css
+#minimal_mistakes_skin: default
+#custom_css:
+#  - /assets/css/custom-fonts.css
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
