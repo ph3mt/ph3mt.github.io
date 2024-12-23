@@ -1,5 +1,5 @@
 ---
-title:  "GodFather Android Malware Analysis __"
+title:  "GodFather Android Malware Analysis"
 date: 2024-12-10
 excerpt_separator: "<!--more-->"
 categories:
