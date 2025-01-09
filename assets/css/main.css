@@ -711,8 +711,8 @@ button,
 html input[type=button],
 input[type=reset],
 input[type=submit] {
-  -webkit-appearance: button; /* corrects inability to style clickable `input` types in iOS*/
-  cursor: pointer; /* improves usability and consistency of cursor style between image-type `input` and others*/
+  -webkit-appearance: button; /* corrects inability to style clickable input types in iOS*/
+  cursor: pointer; /* improves usability and consistency of cursor style between image-type input and others*/
 }
 
 label,
@@ -723,7 +723,7 @@ input[type=reset],
 input[type=submit],
 input[type=radio],
 input[type=checkbox] {
-  cursor: pointer; /* improves usability and consistency of cursor style between image-type `input` and others*/
+  cursor: pointer; /* improves usability and consistency of cursor style between image-type input and others*/
 }
 
 input[type=search] { /* Appearance in Safari/Chrome*/
@@ -3189,11 +3189,18 @@ body:hover .visually-hidden button {
   clear: both;
 }
 
-.wrapper {
+/*.wrapper {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+}*/
+
+.wrapper {
+  margin: 0 auto; /* Centra il contenuto */
+  max-width: 100%; /* Riduci il massimo della larghezza */
+  padding: 1rem; /* Diminuisci il padding generale */
 }
+
 
 /*
    Images
