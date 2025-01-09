@@ -9,7 +9,7 @@ tags:
   - Android
 author: true        
 share: false
-image: /assets/images/2024-12-09-godfather-android-analysis
+featured_image: /assets/images/2024-12-09-godfather-android-analysis/GodFather.png
 ---
 
 ![Figure 0 - GodFather](/assets/images/2024-12-09-godfather-android-analysis/GodFather.png) 
